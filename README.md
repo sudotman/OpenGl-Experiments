@@ -59,11 +59,12 @@ A spiderweb designed in OpenGl.
 
 [Code](/Misc/Spiderweb.c)
 
-![](/output/Spiderweb.png)
+![](/Outputs/Spiderweb.png)
 
 
 ## Triangle Animations
 [Code](/Triangle%20Animations/main.cpp)
-![](/output/TriangleAnimationOutput.gif)
+
+![](/Outputs/TriangleAnimationOutput.gif)
 
 
