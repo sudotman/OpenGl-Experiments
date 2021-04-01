@@ -9,7 +9,7 @@ A collection of all OpenGL codes/experiments I made to become familiar with Open
 - [Misc](#misc)
 - [Triangle animations](#triangle-animations)
 
-#Codes
+# Codes
 
 ## Bresenham Algorithms
 
