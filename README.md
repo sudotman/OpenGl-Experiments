@@ -52,6 +52,40 @@ A collection of all OpenGL codes/experiments I made to become familiar with Open
 ### Midpoint Ellipse Drawing
 [Code](/MidpointAlgorithm/MidpointScanEllipse.c)
 
+
+## Cohen Sutherland Clipping
+
+[Code](/CohenSutherland/cohenSutherland.c)
+
+
+## Liang-Barsky Line Clipping
+
+### Over a predefined line
+[Code](/LiangBarskyAlgorithm/LiangBarskyLineClipping.c)
+
+### User inputs a line
+[Code](/LiangBarskyAlgorithm/LiangBarskyUserDefinedRegions.c)
+
+## Sutherland-Hodgman Polygon Clipping Algorithm
+
+### Over a predefined polygon region
+[Code](/SutherlandHodgman/SutherlandHodgmanPolygonClipping.cpp)
+
+### Over a user defined polygon region
+[Code](/SutherlandHodgman/SutherlandHodgmanUserDefined.cpp)
+
+## Polyhedrons in OpenGL
+
+### Wireframe polyhedron
+[Code](/Polyhedron/PolyhedronWired.c)
+
+### Solid polyhedron
+[Code](/Polyhedron/PolyhedronSolid.c)
+
+## Curve in OpenGL
+[Code](/Curves/Curve.c)
+
+
 ## Misc
 
 ### Spiderweb
