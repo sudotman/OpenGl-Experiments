@@ -6,6 +6,11 @@ A collection of all OpenGL codes/experiments I made to become familiar with Open
 - [DDA Algorithms](#dda-algorithms)
 - [Boundaryfill Algorithm](#boundaryfill-algorithm)
 - [Midpoint Algorithm](#midpoint-algorithm)
+- [Cohen Sutherland Clipping](#cohen-sutherland-clipping)
+- [Liang Barsky Line Clipping Algorithm](#liang-barsky-line-clipping)
+- [Sutherland Hodgman Polygon Clipping Algorithm](#sutherland-hodgman-polygon-clipping-algorithm)
+- [Polyhedrons in OpenGL](#polyhedrons-in-opengl)
+- [Curves in OpenGL](#curves-in-opengl)
 - [Misc](#misc)
 - [Triangle animations](#triangle-animations)
 
@@ -58,7 +63,7 @@ A collection of all OpenGL codes/experiments I made to become familiar with Open
 [Code](/CohenSutherland/cohenSutherland.c)
 
 
-## Liang-Barsky Line Clipping
+## Liang Barsky Line Clipping
 
 ### Over a predefined line
 [Code](/LiangBarskyAlgorithm/LiangBarskyLineClipping.c)
@@ -66,7 +71,7 @@ A collection of all OpenGL codes/experiments I made to become familiar with Open
 ### User inputs a line
 [Code](/LiangBarskyAlgorithm/LiangBarskyUserDefinedRegions.c)
 
-## Sutherland-Hodgman Polygon Clipping Algorithm
+## Sutherland Hodgman Polygon Clipping Algorithm
 
 ### Over a predefined polygon region
 [Code](/SutherlandHodgman/SutherlandHodgmanPolygonClipping.cpp)
@@ -82,7 +87,7 @@ A collection of all OpenGL codes/experiments I made to become familiar with Open
 ### Solid polyhedron
 [Code](/Polyhedron/PolyhedronSolid.c)
 
-## Curve in OpenGL
+## Curves in OpenGL
 [Code](/Curves/Curve.c)
 
 
