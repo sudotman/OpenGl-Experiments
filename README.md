@@ -29,10 +29,12 @@ A collection of all OpenGL codes/experiments I made to become familiar with Open
 ### Bresenham Line Drawing with All quadrants
 
 [Code](/Bresenham%20Algorithm/BresenhamFinal.c)
+![](/Outputs/bresenham.png)
 
 ### Bresenham Circle Drawing
 
 [Code](/Bresenham%20Algorithm/BresenhamCircleDrawing.c)
+![](/Outputs/BresenhamCircle.gif)
 
 ## DDA Algorithms
 
@@ -43,24 +45,28 @@ A collection of all OpenGL codes/experiments I made to become familiar with Open
 ### Custom Line using DDA
 
 [Code](/DDA%20Algorithm/CustomLineUsingDDA.c)
+![](/Outputs/CustomLineDrawing.gif)
 
 ## Boundaryfill Algorithm
 
 [Code](/Boundary%20Fill%20Algorithm/BoundaryFill.c)
+![](/Outputs/BoundaryFill.gif)
 
 ## Midpoint Algorithm
 
 
 ### Midpoint Circle Drawing
 [Code](/MidpointAlgorithm/MidpointScanCircle.c)
+![](/Outputs/MidpointCircle.png)
 
 ### Midpoint Ellipse Drawing
 [Code](/MidpointAlgorithm/MidpointScanEllipse.c)
-
+![](/Outputs/MidpointEllipse.png)
 
 ## Cohen Sutherland Clipping
 
 [Code](/CohenSutherland/cohenSutherland.c)
+![](/Outputs/CohenClipping.png)
 
 
 ## Liang Barsky Line Clipping
@@ -70,6 +76,7 @@ A collection of all OpenGL codes/experiments I made to become familiar with Open
 
 ### User inputs a line
 [Code](/LiangBarskyAlgorithm/LiangBarskyUserDefinedRegions.c)
+![](/Outputs/LineClippingUser.gif)
 
 ## Sutherland Hodgman Polygon Clipping Algorithm
 
@@ -78,17 +85,22 @@ A collection of all OpenGL codes/experiments I made to become familiar with Open
 
 ### Over a user defined polygon region
 [Code](/SutherlandHodgman/SutherlandHodgmanUserDefined.cpp)
+![](/Outputs/PolygonClippingUser.gif)
 
 ## Polyhedrons in OpenGL
 
 ### Wireframe polyhedron
 [Code](/Polyhedron/PolyhedronWired.c)
+![](/Outputs/Polyhedron.png)
 
 ### Solid polyhedron
 [Code](/Polyhedron/PolyhedronSolid.c)
+![](/Outputs/PolyhedronSolid.png)
 
 ## Curves in OpenGL
 [Code](/Curves/Curve.c)
+
+![](/Outputs/Curves.png)
 
 
 ## Misc
